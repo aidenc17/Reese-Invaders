@@ -1,6 +1,6 @@
-# 👾 Space Invaders
+# 👾 Reese Invaders
 
-Welcome to **Space Invaders!** A modern take on the classic arcade game, built in **Java** using **Java Swing** for a nostalgic yet engaging experience. Get ready to blast some alien invaders and rack up your high score!
+Welcome to **Reese Invaders!** A modern take on the classic arcade game, built in **Java** using **Java Swing** for a nostalgic yet engaging experience. Get ready to blast some alien invaders and rack up your high score!
 
 ---
 
@@ -32,7 +32,7 @@ Welcome to **Space Invaders!** A modern take on the classic arcade game, built i
 ## 📥 Installation & Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/space-invaders.git
+   git clone https://github.com/aidenc17/reese-invaders.git
    ```
 2. Navigate to the project directory:
    ```sh

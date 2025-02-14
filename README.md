@@ -46,6 +46,13 @@ Welcome to **Reese Invaders!** A modern take on the classic arcade game, built i
 
 ---
 
+## 📷 Screenshots 
+<img width="802" alt="Start up screen" src="https://github.com/user-attachments/assets/adea8447-fb5b-45d5-ac32-52b8b407b64d" />
+<img width="802" alt="Reese in action" src="https://github.com/user-attachments/assets/ee8ef265-b7eb-4364-8d10-5529f5111674" />
+<img width="802" alt="End game screen" src="https://github.com/user-attachments/assets/dde5513f-14f5-4a02-8a80-7c614813936f" />
+
+
+---
 
 ## 🎯 Future Improvements
 - Add sound effects and background music 🎵
